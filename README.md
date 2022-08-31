@@ -1,1 +1,1 @@
-# WEB322
+# WEB322 Simple web app
